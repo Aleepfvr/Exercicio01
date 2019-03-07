@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Paesi</string>
+    <string name="meal">Pasta</string>
+    <string name="flag">Italia</string>
+    <string name="descricaoPrato">Pasta</string>
+    <string name="descricaoBandeira">Italia</string>
+</resources>
